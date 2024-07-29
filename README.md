@@ -1,4 +1,5 @@
-Submissions for SFU Canadian Coding League, won Bronze
+PLAYABLE ON ACCOUNT izzyfaithbm ON PIXELPAD.IO
 
-National Submission: Elemental Star
-Regional Submission: Elemental Eats
+Submissions for SFU Canadian Coding League, won Bronze
+  National Submission: Elemental Star
+  Regional Submission: Elemental Eats
